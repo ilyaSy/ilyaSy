@@ -10,12 +10,7 @@
 - 💜 Новые технологии / подходы / фреймворки (важное подчеркнуть)
 
 Стэк:
-- 🔥 React + REDUX
-- 🔥 JavaScript
-- 🔥 TypeScript
-- 🌱 HTML/HTML5
-- 🌱 CSS/CSS3
-- 🌱 Less
+- 🔥 `React+REDUX` `JavaScript` `TypeScript` `HTML/HTML5` `CSS/CSS3` `Less`
 
 Есть опыт работы с:
 - 🐧 FreeBSD / CentOS / Ubuntu
@@ -26,6 +21,8 @@
 - 😼 Есть котэ
 - 🚴 Люблю кататься на велосипеде
 - 📫 [ВК - @Илья](https://vk.com/isychugov)
+
+<img src="https://github-readme-stats.vercel.app/api?username=ilyaSy&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
 <!--
 **ilyaSy/ilyaSy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
