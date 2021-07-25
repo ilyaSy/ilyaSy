@@ -24,6 +24,12 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ilyaSy&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyaSy&layout=compact">
+  <img align="left" height="130" style="margin-bottom: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyaSy&layout=compact&title_color=ffffff&text_color=daf7dc&bg_color=151515" />
+</a>
+
+[![Codewarrior Profile Badges](https://www.codewars.com/users/nemesis/badges/large)](https://www.codewars.com/users/nemesis)
+
 <!--
 **ilyaSy/ilyaSy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
