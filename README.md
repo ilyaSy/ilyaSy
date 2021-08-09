@@ -9,13 +9,28 @@
 - ✏️ Умение писать понятый чистый код
 - 💜 Новые технологии / подходы / фреймворки (важное подчеркнуть)
 
-Стэк:
-`React+REDUX` `JavaScript` `TypeScript` `HTML/HTML5` `CSS/CSS3` `Less`
-
-Есть опыт работы с:
-- 🐧 FreeBSD / CentOS / Ubuntu
-- 💪 MySQL
-- 🐫 Perl
+Технологии<br>
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![REDUX](https://img.shields.io/badge/-Redux-brightgreen?style=flat-square&logo=Redux)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+<br>
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Perl](https://img.shields.io/badge/-perl-brightgreen?style=flat-square&logo=perl)
+![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
+<br>
+![FreeBSD](https://img.shields.io/badge/-FreeBSD-red?style=flat-square&logo=FreeBSD)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=Ubuntu)
+<br>
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 
 Немного обо мне:
 - 😼 Есть котэ
