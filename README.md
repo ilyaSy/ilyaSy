@@ -33,6 +33,9 @@
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 
 Немного обо мне:
+<br>
+[![Codewarrior Profile Badges](https://www.codewars.com/users/_nemesis_/badges/large)](https://www.codewars.com/users/_nemesis_)
+<br>
 - 😼 Есть котэ
 - 🚴 Люблю кататься на велосипеде
 - 📫 [ВК - @Илья](https://vk.com/isychugov)
