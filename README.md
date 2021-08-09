@@ -32,18 +32,14 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 
-Немного обо мне:
-<br>
 [![Codewarrior Profile Badges](https://www.codewars.com/users/_nemesis_/badges/large)](https://www.codewars.com/users/_nemesis_)
-<br>
+
+Немного обо мне:
 - 😼 Есть котэ
 - 🚴 Люблю кататься на велосипеде
 - 📫 [ВК - @Илья](https://vk.com/isychugov)
 
 <img src="https://github-readme-stats.vercel.app/api?username=ilyaSy&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-
-[![Codewarrior Profile Badges](https://www.codewars.com/users/_nemesis_/badges/large)](https://www.codewars.com/users/_nemesis_)
-
 <img align="left" height="130" style="margin-bottom: 10px; display: flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyaSy&layout=compact&title_color=ffffff&text_color=daf7dc&bg_color=151515" />
 
 <!--
