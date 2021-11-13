@@ -14,8 +14,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/-React-0081CB?style=for-the-badge&logo=react)
 ![REDUX](https://img.shields.io/badge/-Redux-0081CB?style=for-the-badge&logo=Redux)
-![REDUX+Thunk](https://img.shields.io/badge/-Redux+Thunk-0081CB?style=for-the-badge&logo=ReduxThunk)
-![REDUX+Saga](https://img.shields.io/badge/-Redux+Saga-0081CB?style=for-the-badge&logo=ReduxSaga)
+![REDUXThunk](https://img.shields.io/badge/-ReduxThunk-0081CB?style=for-the-badge&logo=ReduxThunk)
+![REDUXSaga](https://img.shields.io/badge/-ReduxSaga-0081CB?style=for-the-badge&logo=ReduxSaga)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=for-the-badge&logo=Jest)
 ![Axios](https://img.shields.io/badge/-Axios-black?style=for-the-badge&logo=javascript)
 <br>
