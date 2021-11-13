@@ -32,7 +32,8 @@
 ![Perl](https://img.shields.io/badge/-perl-0081CB?style=for-the-badge&logo=perl)
 ![Apache2](https://img.shields.io/badge/Apache2-0081CB?style=for-the-badge&logo=apache)
 <br>
-![FreeBSD](https://img.shields.io/badge/-FreeBSD-red?style=for-the-badge&logo=FreeBSD)
+![Windows](https://img.shields.io/badge/-Windows-0081CB?style=for-the-badge&logo=Windows)
+![FreeBSD](https://img.shields.io/badge/-FreeBSD-0081CB?style=for-the-badge&logo=FreeBSD)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=for-the-badge&logo=Ubuntu)
 ![Centos](https://img.shields.io/badge/-Centos-black?style=for-the-badge&logo=Centos)
 <br>
