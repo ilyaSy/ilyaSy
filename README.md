@@ -9,38 +9,41 @@
 - ✏️ Умение писать понятый чистый код
 - 💜 Новые технологии / подходы / фреймворки (важное подчеркнуть)
 
-Технологии<br>
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/-React-0081CB?style=for-the-badge&logo=react)
-![REDUX](https://img.shields.io/badge/-Redux-0081CB?style=for-the-badge&logo=Redux)
-![ReduxThunk](https://img.shields.io/badge/-Thunk-0081CB?style=for-the-badge&logo=Thunk)
-![ReduxSaga](https://img.shields.io/badge/-Saga-0081CB?style=for-the-badge&logo=ReduxSaga)
-![Jest](https://img.shields.io/badge/-Jest-black?style=for-the-badge&logo=Jest)
-![Axios](https://img.shields.io/badge/-Axios-black?style=for-the-badge&logo=javascript)
+Основной стэк/технологии<br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-181717?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/-React-181717?style=for-the-badge&logo=react)
+![REDUX](https://img.shields.io/badge/-Redux-181717?style=for-the-badge&logo=Redux)
+![ReduxThunk](https://img.shields.io/badge/-Thunk-181717?style=for-the-badge&logo=Thunk)
+![ReduxSaga](https://img.shields.io/badge/-Saga-181717?style=for-the-badge&logo=ReduxSaga)
+![Jest](https://img.shields.io/badge/-Jest-181717?style=for-the-badge&logo=Jest)
+![Axios](https://img.shields.io/badge/-Axios-181717?style=for-the-badge&logo=javascript)
 <br>
-![MaterialUI](https://img.shields.io/badge/-MaterialUI-0081CB?style=for-the-badge&logo=material-UI)
-![AntDesign](https://img.shields.io/badge/-AntDesign-0081CB?style=for-the-badge&logo=ant-design)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-E34F26?style=for-the-badge&logo=css3)
-![CSS3](https://img.shields.io/badge/-SCSS-E34F26?style=for-the-badge&logo=scss)
-![Less](https://img.shields.io/badge/-Less-E34F26?style=for-the-badge&logo=less)
+![MaterialUI](https://img.shields.io/badge/-MaterialUI-181717?style=for-the-badge&logo=material-UI)
+![AntDesign](https://img.shields.io/badge/-AntDesign-181717?style=for-the-badge&logo=ant-design)
+![HTML5](https://img.shields.io/badge/-HTML5-181717?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-181717?style=for-the-badge&logo=css3)
+![CSS3](https://img.shields.io/badge/-SCSS-181717?style=for-the-badge&logo=scss)
+![Less](https://img.shields.io/badge/-Less-181717?style=for-the-badge&logo=less)
+<br>Прочее<br>
+![Windows](https://img.shields.io/badge/-Windows-181717?style=for-the-badge&logo=Windows)
+![FreeBSD](https://img.shields.io/badge/-FreeBSD-181717?style=for-the-badge&logo=FreeBSD)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-181717?style=for-the-badge&logo=Ubuntu)
+![Centos](https://img.shields.io/badge/-Centos-181717?style=for-the-badge&logo=Centos)
 <br>
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
-![MariaDB](https://img.shields.io/badge/MariaDB-black?style=for-the-badge&logo=mariadb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)
-![Perl](https://img.shields.io/badge/-perl-0081CB?style=for-the-badge&logo=perl)
-![Apache2](https://img.shields.io/badge/Apache2-0081CB?style=for-the-badge&logo=apache)
-<br>
-![Windows](https://img.shields.io/badge/-Windows-0081CB?style=for-the-badge&logo=Windows)
-![FreeBSD](https://img.shields.io/badge/-FreeBSD-0081CB?style=for-the-badge&logo=FreeBSD)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=for-the-badge&logo=Ubuntu)
-![Centos](https://img.shields.io/badge/-Centos-black?style=for-the-badge&logo=Centos)
-<br>
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![Git](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-181717?style=for-the-badge&logo=Bitbucket)
+![VS Code](https://img.shields.io/badge/-VS%20Code-181717?style=for-the-badge&logo=visual-studio-code)
+![VS Code](https://img.shields.io/badge/-Figma-181717?style=for-the-badge&logo=figma)
+![Postman](https://img.shields.io/badge/Postman-181717?style=for-the-badge&logo=postman)
+
+Другие технологии<br>
+![MySQL](https://img.shields.io/badge/-MySQL-181717?style=for-the-badge&logo=mysql)
+![MariaDB](https://img.shields.io/badge/MariaDB-181717?style=for-the-badge&logo=mariadb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181717?style=for-the-badge&logo=postgresql)
+![Perl](https://img.shields.io/badge/-perl-181717?style=for-the-badge&logo=perl)
+![Apache2](https://img.shields.io/badge/Apache2-181717?style=for-the-badge&logo=apache)
 
 [![Codewarrior Profile Badges](https://www.codewars.com/users/_nemesis_/badges/large)](https://www.codewars.com/users/_nemesis_)
 
