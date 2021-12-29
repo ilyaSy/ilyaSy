@@ -23,7 +23,7 @@
 ![AntDesign](https://img.shields.io/badge/-AntDesign-181717?style=for-the-badge&logo=ant-design)
 ![HTML5](https://img.shields.io/badge/-HTML5-181717?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-181717?style=for-the-badge&logo=css3)
-![CSS3](https://img.shields.io/badge/-SCSS-181717?style=for-the-badge&logo=scss)
+![SCSS](https://img.shields.io/badge/-SCSS-181717?style=for-the-badge&logo=scss)
 ![Less](https://img.shields.io/badge/-Less-181717?style=for-the-badge&logo=less)
 <br>Прочее<br>
 ![Windows](https://img.shields.io/badge/-Windows-181717?style=for-the-badge&logo=Windows)
@@ -35,7 +35,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-181717?style=for-the-badge&logo=Bitbucket)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-181717?style=for-the-badge&logo=visual-studio-code)
-![VS Code](https://img.shields.io/badge/-Figma-181717?style=for-the-badge&logo=figma)
+![IJ IDEA](https://img.shields.io/badge/-IJ%20IDEA-181717?style=for-the-badge&logo=intellij-idea)
+![Figma](https://img.shields.io/badge/-Figma-181717?style=for-the-badge&logo=figma)
 ![Postman](https://img.shields.io/badge/Postman-181717?style=for-the-badge&logo=postman)
 
 Другие технологии<br>
