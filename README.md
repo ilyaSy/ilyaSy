@@ -22,12 +22,12 @@
 <br>
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-181717?style=for-the-badge&logo=mui)
 ![AntDesign](https://img.shields.io/badge/-AntDesign-181717?style=for-the-badge&logo=ant-design)
-![RadixUI](https://img.shields.io/badge/radix-ui?style=for-the-badge&logo=radix-ui)
+![RadixUI](https://img.shields.io/badge/radix-ui-181717?style=for-the-badge&logo=radix-ui)
 ![HTML5](https://img.shields.io/badge/-HTML5-181717?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-181717?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-181717?style=for-the-badge&logo=sass)
 ![Less](https://img.shields.io/badge/-Less-181717?style=for-the-badge&logo=less)
-![StyledComponents](https://img.shields.io/badge/styled-components?style=for-the-badge&logo=styled-components)
+![StyledComponents](https://img.shields.io/badge/styled-components-181717?style=for-the-badge&logo=styled-components)
 <br>Прочее<br>
 ![Windows](https://img.shields.io/badge/-Windows-181717?style=for-the-badge&logo=Windows)
 ![FreeBSD](https://img.shields.io/badge/-FreeBSD-181717?style=for-the-badge&logo=FreeBSD)
