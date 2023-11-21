@@ -7,7 +7,7 @@
 Стараюсь развиваться в:
 - 👯 Работа в команде
 - ✏️ Умение писать понятый чистый код
-- 💜 Новые технологии / подходы / фреймворки (важное подчеркнуть)
+- 💜 Архитектура / паттерны / подходы / технологии / фреймворки
 
 Основной стэк/технологии<br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=for-the-badge&logo=javascript)
@@ -53,7 +53,7 @@
 Немного обо мне:
 - 😼 Есть котэ
 - 🚴 Люблю кататься на велосипеде
-- 📫 [ВК - @Илья](https://vk.com/isychugov)
+- 📫 [вконтакте](https://vk.com/isychugov)
 
 <img src="https://github-readme-stats.vercel.app/api?username=ilyaSy&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 <img align="left" height="130" style="margin-bottom: 10px; display: flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyaSy&layout=compact&title_color=ffffff&text_color=daf7dc&bg_color=151515" />
