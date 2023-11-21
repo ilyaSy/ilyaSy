@@ -18,7 +18,6 @@
 ![ReduxThunk](https://img.shields.io/badge/-Thunk-181717?style=for-the-badge&logo=Thunk)
 ![ReduxSaga](https://img.shields.io/badge/-Saga-181717?style=for-the-badge&logo=ReduxSaga)
 ![Jest](https://img.shields.io/badge/-Jest-181717?style=for-the-badge&logo=Jest)
-![Axios](https://img.shields.io/badge/-Axios-181717?style=for-the-badge&logo=javascript)
 <br>
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-181717?style=for-the-badge&logo=mui)
 ![AntDesign](https://img.shields.io/badge/-AntDesign-181717?style=for-the-badge&logo=ant-design)
